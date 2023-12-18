@@ -1,0 +1,32 @@
+{
+    "grupos": [
+      {
+        "descricao": "CAMISA",
+        "exportador": "EmpresaA",
+        "importador": "EmpresaB",
+        "ncm": "123456",
+        "quantidade": 4
+      },
+      {
+        "descricao": "PORCELANA",
+        "exportador": "EmpresaA",
+        "importador": "EmpresaB",
+        "ncm": "789012",
+        "quantidade": 4
+      },
+      {
+        "descricao": "CHAPAS ESTRUTURAIS",
+        "exportador": "EmpresaA",
+        "importador": "EmpresaB",
+        "ncm": "345678",
+        "quantidade": 4
+      },
+      {
+        "descricao": "BORRACHA",
+        "exportador": "EmpresaA",
+        "importador": "EmpresaB",
+        "ncm": "901234",
+        "quantidade": 4
+      }
+    ]
+  }
